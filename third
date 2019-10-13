@@ -56,6 +56,10 @@
 			<td colspan="3"  align="right">性别取向：</td>
 			<td colspan="5"><input type="text" name="性别取向"></td>
 		</tr>
+		<tr>
+			<td colspan="18" align="center"><input type="submit" value="提交">
+							 <input type="reset" value="清除"></td>
+		</tr>
 		</table>
   	</form>
 </body>
